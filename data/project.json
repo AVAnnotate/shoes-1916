@@ -1,1 +1,81 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"tanyaclement","is_private":false,"title":"Shoes (1916)","description":"Shoes is a 1916 silent drama film directed by Lois Weber and starring Mary MacLaren.","language":"en","slug":"shoes-1916","creator":"tanyaclement","authors":"Zoe Bursztajn-Illingworth and Luke Sumpter, edited by Tanya Clement","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Editing","color":"#ADFFD9"},{"color":"#ADFEFF","category":"Intertitles"}],"tags":[{"tag":"Dissolve","category":"Editing"},{"tag":"Dissolve","category":"Editing"},{"tag":"Fade","category":"Editing"},{"tag":"Fade","category":"Editing"},{"tag":"Superimposition","category":"Editing"},{"tag":"Superimposition","category":"Editing"},{"tag":"Fade","category":"Editing"},{"tag":"Graphic match","category":"Editing"},{"tag":"Graphic match","category":"Editing"},{"tag":"Superimposition","category":"Editing"},{"tag":"intertitle","category":"Intertitles"}]},"created_at":"2024-11-05T18:08:54.384Z","updated_at":"2024-11-05T18:09:22.009Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "tanyaclement",
+    "is_private": false,
+    "title": "Shoes (1916)",
+    "description": "Shoes is a 1916 silent drama film directed by Lois Weber and starring Mary MacLaren.",
+    "language": "en",
+    "slug": "shoes-1916",
+    "creator": "tanyaclement",
+    "authors": "Zoe Bursztajn-Illingworth and Luke Sumpter, edited by Tanya Clement",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Editing",
+          "color": "#ADFFD9"
+        },
+        {
+          "color": "#ADFEFF",
+          "category": "Intertitles"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dissolve",
+          "category": "Editing"
+        },
+        {
+          "tag": "Dissolve",
+          "category": "Editing"
+        },
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        },
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        },
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        },
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        },
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        },
+        {
+          "tag": "Graphic match",
+          "category": "Editing"
+        },
+        {
+          "tag": "Graphic match",
+          "category": "Editing"
+        },
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        },
+        {
+          "tag": "intertitle",
+          "category": "Intertitles"
+        }
+      ]
+    },
+    "created_at": "2024-11-05T18:08:54.384Z",
+    "updated_at": "2024-11-05T18:11:53.305Z"
+  }
+}

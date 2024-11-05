@@ -1,0 +1,23 @@
+{
+  "audiovisual_files": {
+    "e583f474-502d-4464-9ab9-809823a1bba3": {
+      "label": "Editing",
+      "is_offline": false,
+      "file_url": "https://ia801808.us.archive.org/29/items/silent-shoes/Shoes.mp4",
+      "duration": 1207
+    }
+  },
+  "auto_generate_web_page": false,
+  "citation": " \"Shoes (1916)\", catalog, American Film Institute (AFI), Los Angeles California. Retrieved November 8, 2020.",
+  "item_type": "Video",
+  "label": "Shoes (1916) Editing",
+  "description": [
+    {
+      "text": "Shoes is a 1916 silent drama film directed by Lois Weber and starring Mary MacLaren."
+    }
+  ],
+  "created_at": "2024-11-05T18:11:53.124Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-11-05T18:11:53.124Z",
+  "updated_by": "tanyaclement"
+}
