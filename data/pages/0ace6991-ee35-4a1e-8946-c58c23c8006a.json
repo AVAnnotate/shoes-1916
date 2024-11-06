@@ -4,7 +4,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project annotates Lois Weber’s 1916 silent film Shoes. The film’s story follows a working class young woman coming to class consciousness. It revolves around the woman’s need to purchase a pair of shoes from the department store in which she works as she supports her family. The film cuts off after arguing with her parents about purchasing the shoes vs. buying food for the family. The young woman is on her way to a seedy can-can club, The Blue Goose in its final scene and the rest of the film is missing. In one of the annotation sets, the first contributor traces the film’s narrative through its use of intertitles to establish a timeline, pathos, dialogue, and its overall exegesis. The second set of annotations traces the film’s editing techniques, which in 1916, were perfecting their ability to capture time and space. Taken together, the project demonstrates the way in which film form creates story in the hands of a pioneering woman filmmaker. "
+          "text": "This project annotates Lois Weber’s 1916 silent film "
+        },
+        {
+          "text": "Shoes",
+          "italic": true
+        },
+        {
+          "text": ". The film’s story follows a working class young woman coming to class consciousness. It revolves around the woman’s need to purchase a pair of shoes from the department store in which she works as she supports her family. The film cuts off after arguing with her parents about purchasing the shoes vs. buying food for the family. The young woman is on her way to a seedy can-can club, The Blue Goose in its final scene and the rest of the film is missing. In one of the annotation sets, the first contributor traces the film’s narrative through its use of intertitles to establish a timeline, pathos, dialogue, and its overall exegesis. The second set of annotations traces the film’s editing techniques, which in 1916, were perfecting their ability to capture time and space. Taken together, the project demonstrates the way in which film form creates story in the hands of a pioneering woman filmmaker. "
         }
       ]
     },
@@ -51,6 +58,6 @@
   "slug": "shoes-comparison",
   "created_at": "2024-11-05T18:13:18.495Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-11-05T18:13:18.495Z",
+  "updated_at": "2024-11-06T03:39:17.818Z",
   "updated_by": "tanyaclement"
 }
